@@ -7,6 +7,8 @@ It features programmer arts at its finest.
 
 Localization is missing, the few words in the game are in italian. Click on "Gioca" to start play.
 
+![image](https://drive.google.com/file/d/1oo0ifEE-DEnttY6t9HVUUPowcPF05_Mx/view?usp=drive_link)
+
 -------------------------
 Build from sources
 -------------------------
@@ -16,3 +18,5 @@ All you have is a good old bat in the build dir. Arrange it with the path of you
 The only dependances is SDL3, SDL3_image and SDL3_ttf.
 
 I developed the game in Notepad++ (Windows), so no project files are included.
+
+
