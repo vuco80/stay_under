@@ -6,3 +6,13 @@ Game is written in c++ with SDL3.
 It features programmer arts at its finest.
 
 Localization is missing, the few words in the game are in italian. Click on "Gioca" to start play.
+
+-------------------------
+Build from sources
+-------------------------
+
+Probably nobody will do this and I'm not a fan of build systems.
+All you have is a good old bat in the build dir. Arrange it with the path of your SDL3.
+The only dependances is SDL3, SDL3_image and SDL3_ttf.
+
+I developed the game in Notepad++ (Windows), so no project files are included.
