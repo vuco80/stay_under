@@ -15,7 +15,10 @@ Build from sources
 
 Probably nobody will do this and I'm not a fan of build systems.
 All you have is a good old bat in the build dir. Arrange it with the path of your SDL3.
-The only dependances is SDL3, SDL3_image and SDL3_ttf.
+The only public dependances are SDL3, SDL3_image and SDL3_ttf.
+
+You also have to link with my personal lib, vuklib, which you can find on my public repo.
+It is a small lib with some SDL initialization and utilities. I expand it as I make games with it.
 
 I developed the game in Notepad++ (Windows), so no project files are included.
 
