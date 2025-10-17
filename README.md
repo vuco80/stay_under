@@ -7,7 +7,7 @@ It features programmer arts at its finest.
 
 Localization is missing, the few words in the game are in italian. Click on "Gioca" to start play.
 
-![screenshot](https://drive.google.com/file/d/1oo0ifEE-DEnttY6t9HVUUPowcPF05_Mx/view?usp=drive_link)
+[screenshot on Google Drive](https://drive.google.com/file/d/1oo0ifEE-DEnttY6t9HVUUPowcPF05_Mx/view?usp=drive_link)
 
 -------------------------
 Build from sources
